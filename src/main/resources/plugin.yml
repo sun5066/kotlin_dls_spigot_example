@@ -1,0 +1,6 @@
+name: Example
+version: 1.0-SNAPSHOT
+main: github.sun5066.example.Example
+commands:
+  example:
+    description: example!!
